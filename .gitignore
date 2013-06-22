@@ -1,7 +1,7 @@
 bin
 obj
 *.suo
-/src/_ReSharper.MVC4ServicesBook
+/src/_ReSharper.*
 *.user
 *.log
-/src/MVC4ServicesDb/*.dbmdl
+/src/*/*.dbmdl
